@@ -1,0 +1,19 @@
+
+#Cabecalho {
+    background-color: burlywood;
+}
+
+#ConteudoFrutas {
+    background-color: bisque;
+}
+
+table {
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid black
+}
+td {
+    text-align: center;
+}
